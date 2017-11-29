@@ -1,0 +1,70 @@
+@font-face {
+  font-family: 'icomoon';
+  src:url('font_src/icomoon.eot?4apvsq');
+  src:url('font_src/icomoon.eot?4apvsq#iefix') format('embedded-opentype'),
+    url('font_src/icomoon.ttf?4apvsq') format('truetype'),
+    url('font_src/icomoon.woff?4apvsq') format('woff'),
+    url('font_src/icomoon.svg?4apvsq#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+ /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+
+.icon-coin:before {
+  content: "\e908";
+}
+.icon-Music:before {
+  content: "\e90e";
+}
+.icon-Person:before {
+  content: "\e920";
+}
+.icon-market:before {
+  content: "\e901";
+}
+.icon-Index:before {
+  content: "\e904";
+}
+.icon-message:before {
+  content: "\e903";
+}
+.icon-search:before {
+  content: "\e905";
+}
+.icon-vip:before {
+  content: "\e906";
+}
+.icon-Music2:before {
+  content: "\e907";
+}
+.icon-menu:before {
+  content: "\e902";
+}
+.icon-play:before {
+  content: "\e910";
+}
+.icon-pause:before {
+    content: "\e955";
+}
+.icon-list-music:before{
+  content: "\e91d"
+}
+.icon-back:before {
+    content: "\e924";
+}
+.icon-brodcast:before{
+  content: "\ea27";
+};
